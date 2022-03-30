@@ -13,5 +13,7 @@ setps:
 <img width="62" alt="image" src="https://user-images.githubusercontent.com/57026482/160864967-926ccf5b-b689-4ad2-98ca-5e898041ccd1.png">
 
 4. erode to fit the training data
+training data(MNIST)
 <img width="77" alt="image" src="https://user-images.githubusercontent.com/57026482/160865129-1b636fef-1ac2-48f3-b18a-f9f03caf63ee.png">
+image after erosion
 <img width="71" alt="image" src="https://user-images.githubusercontent.com/57026482/160865138-c9655a77-6cd5-440e-a1e5-3ca3f2fbcf51.png">
