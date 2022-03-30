@@ -5,6 +5,9 @@ There will be three numbers, which are 1, 13, and 3. Only 1 and 3 were to be rec
 
 'M' on 13 means multiple numbers.
 
+<img width="639" alt="截圖_2022-03-30_下午11_06_02" src="https://user-images.githubusercontent.com/57026482/160869188-e0b9df98-666b-47a7-82c2-6ede8beddbd2.png">
+
+
 setps:
 1. original image
 <img width="75" alt="image" src="https://user-images.githubusercontent.com/57026482/160864538-3484d75f-2096-43cb-a0db-bb008bdd0b6a.png">
