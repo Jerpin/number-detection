@@ -27,3 +27,4 @@ training data(MNIST)
 image after erosion
 
 <img width="71" alt="image" src="https://user-images.githubusercontent.com/57026482/160865138-c9655a77-6cd5-440e-a1e5-3ca3f2fbcf51.png">
+ 
