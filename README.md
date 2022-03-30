@@ -5,7 +5,7 @@ There will be three numbers, which are 1, 13, and 3. Only 1 and 3 were to be rec
 
 'M' on 13 means multiple numbers.
 
-<img width="209" alt="image" src="https://user-images.githubusercontent.com/57026482/160870908-3397741d-6eb6-461a-a6b6-d28fe26f8092.png">
+<img width="351" alt="image" src="https://user-images.githubusercontent.com/57026482/160871201-2757d10c-6b2e-4f5a-9acc-603347a3a8e5.png">
 
 
 setps:
