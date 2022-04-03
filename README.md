@@ -1,5 +1,5 @@
 # number-detection
-Preprocess and detection: Digital image processing
+Preprocess and Detection: Digital image processing
 
 Classification:CNN model(trained with MNIST data set).
 
