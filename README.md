@@ -1,5 +1,5 @@
 # number-detection
-Digital image processing was used to preprocess and detect the number. CNN model was used for classification.
+Digital image processing was used to preprocess and detect the number. CNN model was used for classification(trained with MNIST data set).
 
 This is a task uses raspberry pi with camera to recognize a number. Raspberrypi is set on a ship which is going to sail to where the number is.
 
