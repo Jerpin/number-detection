@@ -1,10 +1,11 @@
 # number-detection
-Digital image processing was used to preprocess and detect the number. CNN model was used for classification(trained with MNIST data set).
+Preprocess and detection: Digital image processing
+
+Classification:CNN model(trained with MNIST data set).
 
 This is a task uses raspberry pi with camera to recognize a number. Raspberrypi is set on a ship which is going to sail to where the number is.
 
 There will be three numbers, which are 1, 13, and 3. Only 1 and 3 were to be recognized. 
-
 
 'M' on 13 means multiple numbers.
 
@@ -12,16 +13,25 @@ There will be three numbers, which are 1, 13, and 3. Only 1 and 3 were to be rec
 
 
 setps:
-1. original image
+1. Preprocessing
+
+Thresh holding by considering the average brightness.
+
+Bluring and sharpening and then thresholding.
+
+Uses cv2.findcontours to cpature item(number will be captured).
+
+
+2. Number
 <img width="75" alt="image" src="https://user-images.githubusercontent.com/57026482/160864538-3484d75f-2096-43cb-a0db-bb008bdd0b6a.png">
 
-2. remove background
+3. remove background
 <img width="53" alt="image" src="https://user-images.githubusercontent.com/57026482/160864606-4dfacbc1-21f8-4616-be5c-b1df8035dd77.png">
 
-3. remove background with algorithm
+4. remove background with algorithm
 <img width="62" alt="image" src="https://user-images.githubusercontent.com/57026482/160864967-926ccf5b-b689-4ad2-98ca-5e898041ccd1.png">
 
-4. erode to fit the training data
+5. erode to fit the training data
 
 training data(MNIST)
 
