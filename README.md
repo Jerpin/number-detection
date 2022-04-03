@@ -15,9 +15,9 @@ There will be three numbers, which are 1, 13, and 3. Only 1 and 3 were to be rec
 setps:
 1. Preprocessing
 
-Thresh holding by considering the average brightness.
-
 Bluring and sharpening and then thresholding.
+
+Thresh holding by considering the average brightness.
 
 Uses cv2.findcontours to cpature item(number will be captured).
 
