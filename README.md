@@ -17,7 +17,7 @@ setps:
 
 Bluring and sharpening and then thresholding.
 
-Thresh holding by considering the average brightness.
+Thresholding by considering the average brightness.
 
 Uses cv2.findcontours to cpature item(number will be captured).
 
