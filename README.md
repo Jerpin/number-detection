@@ -1,4 +1,6 @@
 # number-detection
+Digital image processing was used to preprocess and detect the number. CNN model was used for classification.
+
 This is a task uses raspberry pi with camera to recognize a number. Raspberrypi is set on a ship which is going to sail to where the number is.
 
 There will be three numbers, which are 1, 13, and 3. Only 1 and 3 were to be recognized. 
