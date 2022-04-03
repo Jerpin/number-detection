@@ -5,6 +5,7 @@ This is a task uses raspberry pi with camera to recognize a number. Raspberrypi 
 
 There will be three numbers, which are 1, 13, and 3. Only 1 and 3 were to be recognized. 
 
+
 'M' on 13 means multiple numbers.
 
 ![pic](https://user-images.githubusercontent.com/57026482/160871334-5592fd44-3e17-4ead-bff7-d744f93bf923.jpg)
